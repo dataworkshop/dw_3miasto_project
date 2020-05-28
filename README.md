@@ -1,8 +1,8 @@
 # dw_3miasto_project
-TEAM:
-#Kasia (https://github.com/kasiara)
-#Maciej (https://github.com/maciej-zieniewicz)
-Rafał (https://github.com/RafalKazubowski)
-Mateusz (https://github.com/zukol)
-Bartosz (https://github.com/dolphikcode)
+TEAM:<br/>
+Kasia (https://github.com/kasiara)<br/>
+Maciej (https://github.com/maciej-zieniewicz)<br/>
+Rafał (https://github.com/RafalKazubowski)<br/>
+Mateusz (https://github.com/zukol)<br/>
+Bartosz (https://github.com/dolphikcode)<br/>
 Robert (https://github.com/rgruberski)

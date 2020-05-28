@@ -1,4 +1,13 @@
-# dw_3miasto_project
+# Welcome to Trójmiasto Data Workshop project page!
+
+## More about our group:
+*3miasto @ DataWorkshop Club:[#3miasto](https://app.slack.com/client/TCCTN4HU3/CG8FJ6DDL/thread/GHYKUJ16C-1590650064.129700)
+*meetings of local groups: [calendar](https://bit.ly/39LUIA0)
+
+## Our project:
+
+
+
 ## TEAM:<br/>
 **Kasia** (https://github.com/kasiara)<br/>
 **Maciej** (https://github.com/maciej-zieniewicz)<br/>

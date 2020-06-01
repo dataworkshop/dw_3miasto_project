@@ -9,6 +9,7 @@
 
 
 ## TEAM:<br/>
+**Ania** (https://github.com/anna-milewska) </br>
 **Kasia** (https://github.com/kasiara)<br/>
 **Maciej** (https://github.com/maciej-zieniewicz)<br/>
 **Rafał** (https://github.com/RafalKazubowski)<br/>

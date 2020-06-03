@@ -10,9 +10,10 @@
 
 ## TEAM:<br/>
 **Ania** (https://github.com/anna-milewska) </br>
+**Andrzej** (https://github.com/Andrzej-Langner) </br>
 **Bartosz** (https://github.com/dolphikcode)<br/>
 **Kasia** (https://github.com/kasiara)<br/>
 **Maciej** (https://github.com/maciej-zieniewicz)<br/>
 **Mateusz** (https://github.com/zukol)<br/>
 **Rafał** (https://github.com/RafalKazubowski)<br/>
-**Robert** (https://github.com/rgruberski)
+**Robert** (https://github.com/rgruberski)</br>

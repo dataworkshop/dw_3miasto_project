@@ -13,6 +13,7 @@
 **Andrzej** (https://github.com/Andrzej-Langner) </br>
 **Bartosz** (https://github.com/dolphikcode)<br/>
 **Kasia** (https://github.com/kasiara)<br/>
+**Leszek** (https://github.com/zukowski2012)<br/>
 **Maciej** (https://github.com/maciej-zieniewicz)<br/>
 **Mateusz** (https://github.com/zukol)<br/>
 **Rafał** (https://github.com/RafalKazubowski)<br/>

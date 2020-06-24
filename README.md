@@ -22,3 +22,4 @@ In [this folder](https://github.com/dataworkshop/dw_3miasto_project/tree/master/
 **Mateusz** (https://github.com/zukol)<br/>
 **Rafał** (https://github.com/RafalKazubowski)<br/>
 **Robert** (https://github.com/rgruberski)</br>
+**Sławek** (https://github.com/slawek-programmer) </br>
